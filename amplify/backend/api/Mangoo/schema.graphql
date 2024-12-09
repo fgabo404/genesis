@@ -1,0 +1,9 @@
+type Mangoo @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  PK: String!
+  SK: String!
+  TK: String!
+  ENTITY: String!
+  ATT: AWSJSON!
+  PERMITS: [String!]
+}

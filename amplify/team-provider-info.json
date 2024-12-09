@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mangoo-staging-f973a-authRole",
+      "UnauthRoleArn": "arn:aws:iam::717077502973:role/amplify-mangoo-staging-f973a-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::717077502973:role/amplify-mangoo-staging-f973a-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mangoo-staging-f973a-deployment",
+      "UnauthRoleName": "amplify-mangoo-staging-f973a-unauthRole",
+      "StackName": "amplify-mangoo-staging-f973a",
+      "StackId": "arn:aws:cloudformation:us-east-1:717077502973:stack/amplify-mangoo-staging-f973a/313f6510-5ff1-11ef-bdeb-0e947989e88d",
+      "AmplifyAppId": "d1rgegcnaqah2s"
+    },
+    "categories": {
+      "auth": {
+        "Mangoo": {}
+      }
+    }
+  }
+}
